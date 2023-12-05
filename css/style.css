@@ -1,0 +1,55 @@
+.box{
+  min-height: 600px;
+}
+
+/* load */
+h1 {
+  font-size:     72px;
+  color: #1c69b7;
+  font-weight:   100;
+}
+
+#container {
+  width:  980px;
+  margin: 0 auto;
+}
+
+section {
+  height: 300px;
+  margin: 60px 0;
+}
+
+.section--purple {
+  background-color: #9b59b6;
+}
+
+.section--blue {
+  background-color: #3498db;
+}
+
+.section--green {
+  background-color: #2ecc71;
+}
+
+#main {
+  text-align: center;
+}
+
+#more {
+  margin: 20px auto 48px;
+}
+.clo{
+  color:white;
+  background-color: #1c69b7;
+}
+
+
+/* preload */
+.preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #60D7A9;
+}
